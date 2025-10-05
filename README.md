@@ -22,4 +22,4 @@ This repo documents my journey of understanding and implementing core multithrea
 ## ⚙️ How to Run the Code
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/java-multithreading.git
+   git clone https://github.com/PrabhjotSinghUbhi/java-multithreading.git
