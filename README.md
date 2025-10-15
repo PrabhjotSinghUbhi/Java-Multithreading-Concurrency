@@ -6,6 +6,7 @@ This repo documents my journey of understanding and implementing core multithrea
 ---
 
 ## 🧠 What This Repo Covers
+>
 > *(This list will expand as I learn more)*
 
 - Thread creation (`Thread` class, `Runnable` interface)
